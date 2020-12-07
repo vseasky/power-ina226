@@ -1,5 +1,18 @@
 # SEASKY-INA226技术手册
 
+## 项目开源
+
+[https://github.com/SEASKY-Master/Seasky_INA226](https://github.com/SEASKY-Master/Seasky_INA226.git)
+
+
+## 参数说明
+  
+  - 输入限制 <= 40V
+  - 模块限制分流电压 81.92mV
+  - 使用5mR采样电阻，则最大可测量电流为16.384A,最大功率为640W(理论值)
+  - 实际测试 输入电压24V 输入电流6A 功率144W 没有问题，我感觉跑15A应该是没有问题的，限于测试条件，直流源最大输出6.1A，因此更大电流无法测试。
+
+
 ## 实物
 <img src="./image/ina226.jpg" width = "800"/>
 
@@ -103,3 +116,7 @@
 3. INA226配置说明
    更多的介绍你可以查询手册获得
    <img src="./image/ina226_cfg.jpg" width = "800"/>
+
+4. 串口协议说明
+    <img src="./Seasky串口协议/Seasky串口通信协议.png" width = "800"/>
+   
