@@ -15,7 +15,7 @@
 
 ## 实物
 
-<img src="./image/ina226.jpg" width = "800"/>
+![](./image/ina226.jpg)
 
 ## 协议
 ------------------
@@ -116,8 +116,11 @@
 
 3. INA226配置说明
    更多的介绍你可以查询手册获得
+   
+  ![](./image/ina226_cfg.jpg)
    <img src="./image/ina226_cfg.jpg" width = "800"/>
 
 4. 串口协议说明
-    <img src="./Seasky串口协议/Seasky串口通信协议.png" width = "800"/>
+  ![](./Seasky串口协议/Seasky串口通信协议.png)
+
    
