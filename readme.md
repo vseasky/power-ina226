@@ -1,10 +1,5 @@
 # SEASKY-INA226技术手册
 
-## 项目开源
-
-[https://github.com/SEASKY-Master/Seasky_INA226](https://github.com/SEASKY-Master/Seasky_INA226.git)
-
-
 ## 参数说明
   
   - 输入限制 <= 40V
